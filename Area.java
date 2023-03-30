@@ -6,7 +6,6 @@ import java.util.*; //Library for input function
 public class Area // Class name
 {
     public static void main(String args[]) // Main method
-
     {
         System.out.println("Radius of circle: "); // for output or display
 
