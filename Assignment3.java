@@ -1,7 +1,7 @@
-//Program to print 5 to 1 number on screen
-//Program to print 5 times marvellous on screen
-//program to divide two numbers
-//Program to print * on the screen
+//Program to print 5 to 1 number on screen.
+//Program to print 5 times marvellous on screen.
+//program to divide two numbers.
+//Program to print * on the screen.
 
 import java.util.*;
 public class Assignment3 
