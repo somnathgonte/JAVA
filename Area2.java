@@ -2,8 +2,10 @@
 
 import java.util.*;
 
-public class Area2 {
-    public static void main(String arg[]) {
+public class Area2 
+{
+    public static void main(String arg[]) 
+    {
         System.out.println("Enter Length: ");
 
         Scanner Sobj = new Scanner(System.in);
