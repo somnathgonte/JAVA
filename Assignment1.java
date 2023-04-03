@@ -16,6 +16,5 @@ public class Assignment1
     {
         int division = n1/n2;
         System.out.println(division);
-
     }
 }
