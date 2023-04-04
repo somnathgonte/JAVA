@@ -64,7 +64,5 @@ public class Condition2 {
                 System.out.println("Invalid month");
 
         }
-
     }
-
 }
