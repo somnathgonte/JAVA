@@ -20,5 +20,4 @@ public class Condition
             System.out.println("Odd number");
         }
     }
-
 }
