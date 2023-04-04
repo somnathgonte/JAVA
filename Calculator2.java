@@ -7,6 +7,7 @@ public class Calculator2 {
        int b = sc.nextInt();
        int operator = sc.nextInt();
  
+
        /**
         * 1 -> +
         * 2 -> -
@@ -15,16 +16,21 @@ public class Calculator2 {
         * 5 -> %
         */
  
-       switch(operator) {
+
+       switch(operator)
+          {
            case 1 : System.out.println(a+b);
            break;
            case 2 : System.out.println(a-b);
            break;
            case 3 : System.out.println(a*b);
            break;
-           case 4 : if(b == 0) {
+           case 4 :
+            if(b == 0) 
+                  {
                        System.out.println("Invalid Division");
-                   } else {
+                   } else 
+                   {
                        System.out.println(a/b);
                    }
 	       break;
