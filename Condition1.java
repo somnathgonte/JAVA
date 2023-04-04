@@ -2,7 +2,6 @@
 
 import java.util.*; //package for input 
 
-
 public class Condition1          //class name
 {
     public static void main(String[] args)   //main method
